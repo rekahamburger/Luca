@@ -1,0 +1,108 @@
+#Basic {
+    background-image: url("https://vanguardcanada.com/wp-content/uploads/2020/12/RTI.jpg");
+    height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+ 
+
+}
+
+.navbar-inverse{
+    margin-top: 400px;
+}
+
+#cvnav{
+  margin-top: -350px;
+}
+
+.navbar-header{
+    margin-left: 10px;
+    margin-top: 30px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+#BD:hover{
+    color: white;
+}
+
+#BD{
+  color: gray;
+}
+
+#projects{
+    background-image: url("https://cdn.wallpapersafari.com/21/42/zChpq0.jpg");
+    height: 800px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+
+#about{
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21e05587-8028-4974-a04c-34ec55ce2b91/d1gq5jy-9ab2000b-0e80-41c9-b5dc-4053952de0f7.png/v1/fill/w_1024,h_819,q_75,strp/fractal_no_2_by_yewhral.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8yMWUwNTU4Ny04MDI4LTQ5NzQtYTA0Yy0zNGVjNTVjZTJiOTEvZDFncTVqeS05YWIyMDAwYi0wZTgwLTQxYzktYjVkYy00MDUzOTUyZGUwZjcucG5nIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTgxOSJ9XV19.Pea0E7mYSecz4eCqQ6ctynYdPt_QSe13RrLwST2s1Fo");
+ 
+  height: 800px; /* You must set a specified height */
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+
+
+
+#nav about{
+  color: grey;
+  margin-left: 300px;
+}
+
+#CV{
+  background-image: url("https://th.bing.com/th/id/R.e44f717ba5e6f207b82bafc5a810b553?rik=Vq%2b%2fcaJIUju2Yg&riu=http%3a%2f%2fwallpaperswide.com%2fdownload%2fabstract_graphic_art__blue_iii-wallpaper-1440x1080.jpg&ehk=WYbpimgMfJomO%2bhLRzAS0i77oj035kijl67M%2fhW8Klw%3d&risl=&pid=ImgRaw&r=0");
+    height: 2500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+
+p{
+  color: white;
+  text-align: center;
+}
+
+#LULU{
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+h3{
+
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+ #ul{
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+ }
+
+ h4{
+  color: white;
+  text-align: center;
+
+ }
+ #h{
+  color:white;
+  margin-top: 50px;
+  margin-bottom: 130px;
+ }
+
+ #big{
+  margin-top: 85px;
+  font-size: 55px;
+ }
+
+ 
